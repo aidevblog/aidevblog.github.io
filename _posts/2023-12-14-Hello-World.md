@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mamba: the novel architecture that threatens Transformers
+title: Mamba, the novel architecture that threatens Transformers
 ---
 
 Mamba is a new state space model architecture that has shown promising performance on information-dense data such as language modeling, where previous subquadratic models fall short of Transformers. In this blog post, we will explore the key features of Mamba and its potential applications.
