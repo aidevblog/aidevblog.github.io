@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="images/aamish-and-carlos.jpg" width="256" height="342" />
+<img src="/images/aamish-and-carlos.jpg" width="256" height="342" />
 
 Hey guys! This is Aamish and Carlos, two undergraduates at Dartmouth College who have been delving into this gen AI space for quite some time.
 
